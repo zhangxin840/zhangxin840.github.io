@@ -1,4 +1,6 @@
-zhangxin840.github.io
-=====================
+Zhang Xin
+===================
 
-Data for my personal Pages
+#### Mail: zhangxin840@gmail.com
+#### [Weibo](http://weibo.com/mjxzg)
+#### [Resume](http://www.zhangxinweb.cn/resume_en.pdf)
