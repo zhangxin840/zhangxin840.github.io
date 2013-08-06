@@ -5,4 +5,4 @@ Zhang Xin
 
 #### [Weibo](http://weibo.com/mjxzg)
 
-#### [Resume](http://www.zhangxinweb.cn/resume_en.pdf)
+#### [Resume](http://www.zhangxinweb.cn/resume/resume_en.pdf)
