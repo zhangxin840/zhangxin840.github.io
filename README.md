@@ -3,9 +3,9 @@ Zhang Xin
 
 #### Mail: zhangxin840@gmail.com
 
-#### [Resume](http://www.zhangxinweb.cn/resume/resume_en.pdf)
+#### [Resume](http://zhangxin840.github.io/static/resume-zhangxin-web.pdf)
 
-#### [简历](http://www.zhangxinweb.cn/resume/resume_en.pdf)
+#### [简历](http://zhangxin840.github.io/static/resume-zhangxin-web-cn.pdf)
 
 #### [知乎专栏](https://zhuanlan.zhihu.com/zhangxin840)
 
